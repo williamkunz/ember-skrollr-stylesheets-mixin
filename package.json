@@ -1,0 +1,25 @@
+{
+  "name": "ember-skrollr-stylesheets-mixin",
+  "version": "0.1.0",
+  "description": "Ember mixin for the skrollr stylesheets plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamkunz/skrollr-stylesheets-ember-mixin.git"
+  },
+  "keywords": [
+    "ember",
+    "skrollr",
+    "stylesheets",
+    "ember-addon"
+  ],
+  "author": "William Kunz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/williamkunz/skrollr-stylesheets-ember-mixin/issues"
+  },
+  "homepage": "https://github.com/williamkunz/skrollr-stylesheets-ember-mixin#readme"
+}
